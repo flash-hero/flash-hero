@@ -8,7 +8,7 @@
 
 Applied LLM systems · RAG architectures · End-to-end ML pipelines
 
-![Location](https://img.shields.io/badge/Tanger-Morocco-8B0909?style=flat-square)
+![Location](https://img.shields.io/badge/Tangier-Morocco-8B0909?style=flat-square)
 ![English](https://img.shields.io/badge/English-C2-1B2735?style=flat-square)
 ![French](https://img.shields.io/badge/French-B2-1B2735?style=flat-square)
 
@@ -27,7 +27,7 @@ Alongside coursework and internships, I work as a **freelance data analyst**, tu
 ## Currently
 
 - AI/Data engineering intern at **Bouygues Construction IT**  — building an OCR engine that extracts and structures data from technical construction plans, using Tesseract, Azure Document Intelligence, and Mistral, exposed through a FastAPI pipeline
-- Freelance data analyst — dashboards, reports, and data pipelines for clients outside academic and internship work
+- Freelance data analyst | dashboards, reports, and data pipelines for clients outside academic and internship work
 
 Previously: Data Science & AI Intern at Smart Automation Technologies (04/2025–06/2025) — built a Random Forest classification platform, optimized the preprocessing → feature selection → cross-validation pipeline, and shipped a RAG chatbot (LangChain, ChromaDB, LLM) through a Flask API and Streamlit interface.
 
@@ -101,13 +101,6 @@ Previously: Data Science & AI Intern at Smart Automation Technologies (04/2025�
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flash-hero&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top Languages">
-</div>
-
----
 
 ## Get in Touch
 
