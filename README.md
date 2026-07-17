@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:1B2735&height=120&section=header" width="100%">
+<img src="assets/banner.png" width="100%">
 
 # Oussama Tabakh
 
@@ -18,7 +18,7 @@ Applied LLM systems · RAG architectures · End-to-end ML pipelines
 
 ## About
 
-AI engineer and data scientist building applied LLM systems, RAG architectures, and end-to-end ML pipelines that get deployed, not just prototyped. Engineering degree in AI & Data Science in progress at **ENSI**, on top of a Data Analysis degree from **FST** (Mention Assez Bien).
+AI engineer and data scientist building applied LLM systems, RAG architectures, and end-to-end ML pipelines that get deployed, not just prototyped. Engineering degree in AI & Data Science in progress , on top of a Data Analysis degree from **FST** .
 
 Alongside coursework and internships, I work as a **freelance data analyst**, turning raw datasets into dashboards, reports, and decisions for clients outside the classroom.
 
@@ -26,9 +26,8 @@ Alongside coursework and internships, I work as a **freelance data analyst**, tu
 
 ## Currently
 
-- AI/Data engineering intern at **Bouygues Construction IT** (Casablanca) — building an OCR engine that extracts and structures data from technical construction plans, using Tesseract, Azure Document Intelligence, and Mistral, exposed through a FastAPI pipeline
+- AI/Data engineering intern at **Bouygues Construction IT**  — building an OCR engine that extracts and structures data from technical construction plans, using Tesseract, Azure Document Intelligence, and Mistral, exposed through a FastAPI pipeline
 - Freelance data analyst — dashboards, reports, and data pipelines for clients outside academic and internship work
-- Preparing for an academic exchange at **Université Gustave Eiffel**, Paris (2026/2027)
 
 Previously: Data Science & AI Intern at Smart Automation Technologies (04/2025–06/2025) — built a Random Forest classification platform, optimized the preprocessing → feature selection → cross-validation pipeline, and shipped a RAG chatbot (LangChain, ChromaDB, LLM) through a Flask API and Streamlit interface.
 
