@@ -16,7 +16,7 @@ Applied LLM systems · RAG architectures · Intelligent automation
 
 Engineering student specializing in AI and Data Science at **ENSI** (École des Nouvelles Sciences et Ingénierie), with a background in Data Analysis from **FST**. I build systems that sit at the intersection of machine learning, backend engineering, and automation — not notebooks that stop at a metric, but pipelines and services that ship.
 
-Currently an AI/Data engineering intern at **Bouygues Construction IT** (Casablanca), building an OCR engine that extracts and structures data from technical construction plans using Tesseract, Azure Document Intelligence, and Mistral, exposed through a FastAPI pipeline. Heading to **Université Gustave Eiffel** in Paris for an academic exchange in 2026/2027.
+Currently an AI/Data engineer  at **Bouygues Construction IT** , building an OCR engine that extracts and structures data from technical construction plans using Tesseract, Azure Document Intelligence, and Mistral, exposed through a FastAPI pipeline. 
 
 ---
 
