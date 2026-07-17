@@ -4,9 +4,13 @@
 
 # Oussama Tabakh
 
-### AI & Data Science Engineer
+### AI Engineer & Data Scientist
 
-Applied LLM systems · RAG architectures · Intelligent automation
+Applied LLM systems · RAG architectures · End-to-end ML pipelines
+
+![Location](https://img.shields.io/badge/Tanger-Morocco-8B0909?style=flat-square)
+![English](https://img.shields.io/badge/English-C2-1B2735?style=flat-square)
+![French](https://img.shields.io/badge/French-B2-1B2735?style=flat-square)
 
 </div>
 
@@ -14,71 +18,87 @@ Applied LLM systems · RAG architectures · Intelligent automation
 
 ## About
 
-Engineering student specializing in AI and Data Science at **ENSI** (École des Nouvelles Sciences et Ingénierie), with a background in Data Analysis from **FST**. I build systems that sit at the intersection of machine learning, backend engineering, and automation — not notebooks that stop at a metric, but pipelines and services that ship.
+AI engineer and data scientist building applied LLM systems, RAG architectures, and end-to-end ML pipelines that get deployed, not just prototyped. Engineering degree in AI & Data Science in progress at **ENSI**, on top of a Data Analysis degree from **FST** (Mention Assez Bien).
 
-Currently an AI/Data engineer  at **Bouygues Construction IT** , building an OCR engine that extracts and structures data from technical construction plans using Tesseract, Azure Document Intelligence, and Mistral, exposed through a FastAPI pipeline. 
+Alongside coursework and internships, I work as a **freelance data analyst**, turning raw datasets into dashboards, reports, and decisions for clients outside the classroom.
 
 ---
 
-## Tech Stack
+## Currently
 
-**Languages**
+- AI/Data engineering intern at **Bouygues Construction IT** (Casablanca) — building an OCR engine that extracts and structures data from technical construction plans, using Tesseract, Azure Document Intelligence, and Mistral, exposed through a FastAPI pipeline
+- Freelance data analyst — dashboards, reports, and data pipelines for clients outside academic and internship work
+- Preparing for an academic exchange at **Université Gustave Eiffel**, Paris (2026/2027)
+
+Previously: Data Science & AI Intern at Smart Automation Technologies (04/2025–06/2025) — built a Random Forest classification platform, optimized the preprocessing → feature selection → cross-validation pipeline, and shipped a RAG chatbot (LangChain, ChromaDB, LLM) through a Flask API and Streamlit interface.
+
+---
+
+## Skills
+
+**Core — what I'm strongest in**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JEE](https://img.shields.io/badge/Java_EE_(JEE)-5382A1?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**AI / ML**
+**Tools**
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+
+**Data**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
+
+**Machine Learning & Deep Learning**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-6E56CF?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-333333?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-333333?style=flat-square)
+![RNN](https://img.shields.io/badge/RNN-333333?style=flat-square)
 
-**Backend & Infrastructure**
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square)
+
+**Deployment & Automation**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
----
+**Cloud & DevOps**
 
-## Featured Projects
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<table>
-<tr>
-<td width="50%">
+**Also comfortable with** — Angular, Next.js, TypeScript, Three.js, PHP, C#
 
-**[AI-ML-toolbox](https://github.com/flash-hero/AI-ML-toolbox)**
-A machine learning workbench — upload, clean, visualize, train, and predict from one interface, backed by a from-scratch library of 53 algorithm modules across classification, regression, and clustering. FastAPI + vanilla JS.
-
-</td>
-<td width="50%">
-
-**[FULL-STACK-DAV-AGENTS](https://github.com/flash-hero/FULL-STACK-DAV-AGENTS)**
-Four LangChain agents — Architect, Developer, Tester, Deployer — that turn a plain-English request into a working, tested, deployable Flask app, orchestrated through a Flask API with a Three.js visualization layer.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Medical-Diagnostic-System](https://github.com/flash-hero/Medical-Diagnostic-System)**
-A microservices health platform — six Spring Boot services behind Eureka and an API Gateway, paired with a FastAPI engine for disease prediction (97.8% accuracy) and CNN-based cancer detection.
-
-</td>
-<td width="50%">
-
-**SmartM — Predictive Maintenance**
-An AI module for aerospace engine failure prediction on NASA's C-MAPSS dataset — ROC AUC 0.991, F1 0.894 on the FD001 subset, with degradation analysis across engine fleets.
-
-</td>
-</tr>
-</table>
+**Certifications** — Data Scientist Associate (DataCamp, 2025) · Data Analyst Associate (DataCamp, 2025)
 
 ---
 
@@ -94,8 +114,7 @@ An AI module for aerospace engine failure prediction on NASA's C-MAPSS dataset �
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/oussama-tabakh/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Oussamatabakh2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussama.tabakh@ensi.ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-tabakh)
 
 </div>
