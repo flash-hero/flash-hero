@@ -18,7 +18,7 @@ Applied LLM systems · RAG architectures · End-to-end ML pipelines
 
 ## About
 
-AI engineer and data scientist building applied LLM systems, RAG architectures, and end-to-end ML pipelines that get deployed, not just prototyped. Engineering degree in AI & Data Science in progress , on top of a Data Analysis degree from **FST** .
+AI engineer and data scientist building applied LLM systems, RAG architectures, and end-to-end ML pipelines that get deployed, not just prototyped. Engineering degree in AI & Data Science in progress , on top of a Data Analysis bachelor's degree.
 
 Alongside coursework and internships, I work as a **freelance data analyst**, turning raw datasets into dashboards, reports, and decisions for clients outside the classroom.
 
