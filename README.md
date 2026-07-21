@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" width="80%">
-
 # Oussama Tabakh
 
 ### AI Engineer & Data Scientist
