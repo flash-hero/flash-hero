@@ -1,3 +1,5 @@
+![GitHub Contribution Grid](https://ghchart.rshah.org/flash-hero)
+
 <div align="center">
 
 # Oussama Tabakh
